@@ -1,2 +1,2 @@
 # Codesoft
-This is the repo I created while doing Codesoft internship.
+This is the repo
